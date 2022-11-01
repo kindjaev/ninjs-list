@@ -1,0 +1,11 @@
+.single {
+    padding: 10px;
+    border-left: 1px solid #ddd;
+    cursor: pointer;
+    /* margin-left: 20px; */
+}
+
+.single:hover {
+    border-left: 2px solid #4979ff;
+    font-weight: bold;
+}
